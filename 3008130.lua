@@ -1,13 +1,13 @@
 --====================================================================================
 --APPID:3008130;Dying Light: The Beast
 --====================================================================================
---addappid(3008131,0,"No Package")
+addappid(3008131,0,"3c9721275b2d1577cdbc46948aaef80104cd4f45a9bc32c20e03345c54652587")
 addappid(3008132,0,"6028aa5b91f9bf95194ec527c2ebdccd62e9a5df423e65ce32a73145aaa6c6b3")
 addappid(3008133,0,"434623d389db7ee032958e856f56adcc7da748791f86963e54523321e2e57ee9")
 addappid(3008134,0,"9c4e2acba05efb8e83b8b84191c8ea0454009ee00e7fc407eb32ad2c16cd5d9e")
 addappid(3008135,0,"d47e689c1f7c949b76c2d74d998ef7cf4db0ebb66ef327e68a4e7e1b4bc931dd")
 addappid(3592041,0,"32f10ad2de76688dc0970aebede422b2921593489edc03e6e1e90d447aeb3890")
---addappid(3592047,0,"Need Owner Share (JP Store Only)!Files Same as addappid(3592041)!")
+addappid(3592047,0,"a6d2c01076098ca0ecbe70d4ec21e3c3acfe1671974a526ea883096a51067cec")
 addappid(3008136,0,"4246c4c3f664e9ac92b6f9bdabea8f9d178d64e7b7f78ce2e47d3261e429d21f") -- Depot 24 (3008136_2948663341102804512.manifest)
 addappid(3008137,0,"91d23606572ed7cd2a17f0a53854b43ab17be7f90b9121c2e133df6bf9628b15") -- Depot 18 (3008137_3303023609971793980.manifest)
 addappid(3008138,0,"b087b304a3080e8bb9b868f067c8b57d6eac1c0018d81a8d563cc7dcaf6ca050") -- Depot 14 (3008138_620126001372965384.manifest)
