@@ -2,7 +2,7 @@
 --APPID:2527390;Dead Rising Deluxe Remaster
 --====================================================================================
 addappid(2527391,1,"59f5483e65e1b578cfaea1da84860fc0988266ef8f2847637d6f2e9a3d9d3842") -- Depot 2527391
---addappid(2527392,1,"Need Owner Share (JP Only)")
+--addappid(2527392,1,"[Need Owner Share (JP Only)]")
 addappid(2851890,1,"051f8d3634eacd7215b22a3690863f2775d426b67f7d391c37ffc149c8129337") -- Dead Rising Deluxe Remaster - Costume  BGM Licker - Depot 2851890
 addappid(2851900,1,"8a1835e29c15ae20fa73a08e65720b370e406d416a4cd2bd8b158227e4f6e9ac") -- Dead Rising Deluxe Remaster - Costume  BGM Nemesis - Depot 2851900
 addappid(2851910,1,"9ae538cb36e5b31e2a5efc8bb2308e5eac6c092e4821b01681bd8168115b2416") -- Dead Rising Deluxe Remaster - Costume  BGM Chainsaw Villager - Depot 2851910
@@ -26,28 +26,28 @@ addappid(2852080,1,"c265f1c11629dd4f9a3d9f88c9d19c81fcd862cbcd6ef87afd0c553b94a7
 --====================================================================================
 --APPID:2892640;Dead Rising Deluxe Remaster Demo
 --====================================================================================
---addappid(2892641,1,"Free On Demand")
---addappid(2892642,1,"Free On Demand (JP Only)")
+addappid(2892641,1,"125ff9a0d37bcf81f11ebd9b422b5aaab8b15a0e2fd39982f2dda5371ff88f8f")
+--addappid(2892642,1,"[Free On Demand (JP Only)]")
 --====================================================================================
 --APPID:3214130;DEAD RISING Deluxe Remaster - Ambient & Horror
 --====================================================================================
---addappid(3214131,1,"Need Owner Share")
+addappid(3214131,1,"5417a41ed4c5ecef4c8f9957dce5f0b42804560706757653fe2bef2917994a9c")
 --====================================================================================
 --APPID:3659690;DEAD RISING Deluxe Remaster - Cinematic
 --====================================================================================
---addappid(3659691,1,"Need Owner Share")
+--addappid(3659691,1,"[Need Owner Share]")
 --====================================================================================
 --APPID:3659770;DEAD RISING Deluxe Remaster - Relax & Fun
 --====================================================================================
---addappid(3659771,1,"Need Owner Share")
+--addappid(3659771,1,"[Need Owner Share]")
 --====================================================================================
 --APPID:2527390;DEAD RISING Deluxe Remaster - Rock & Alternative
 --====================================================================================
---addappid(3659831,1,"Need Owner Share")
+--addappid(3659831,1,"[Need Owner Share]")
 --====================================================================================
 --APPID:3668680;どうせ僕らは (DEAD RISING Deluxe Remaster プロモーション曲)
 --====================================================================================
---addappid(3668681,1,"Need Owner Share")
+--addappid(3668681,1,"[Need Owner Share]")
 --====================================================================================
 --OPTIONS
 --eg:
@@ -57,3 +57,4 @@ addappid(2852080,1,"c265f1c11629dd4f9a3d9f88c9d19c81fcd862cbcd6ef87afd0c553b94a7
 --setAppticket(3362990,"3800000004000000a185a25201001001ae50330048c019142600010a0000000086e00e6806902a680100022912000100529333000000000005f1bd380a1f7d37667231de28077bbb7736a61430e2457b1cccacc3ac471294d8bcb578bde0d9ca0ce8935515c3dc30cfa6351f0087ec254b4a543546edfd41356702a221b457b53b3ebaa60d6f32ad3e7122e7cde4b341c0372bd7221ccb9ac6a63d0dcf8c73346f8c083ca5003a6f2860bb342d1ec5955b6307c596bc0c0c")
 --====================================================================================
 addappid(2527390) -- Dead Rising Deluxe Remaster
+addappid(3214130)
