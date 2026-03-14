@@ -2,8 +2,8 @@
 -- AppID:3378960;Lost Soul Aside™
 --====================================================================================
 addappid(3378961,0,"02157efe6285cacaa20730d8f0bd83c4b020ec25cd0c75e88ad7ac83465a570a") -- Depot 1 (3378961_8610612055954563073.manifest)
---addappid(3596880,0,"No Depot Need(No size)")
---addappid(3484230,0,"No Depot Need(No size)")
+--addappid(3596880,0,"No Depot Need[No size]")
+--addappid(3484230,0,"No Depot Need[No size]")
 addappid(3484241,0,"850583f98b56a2b21b65c877cf536c83830fa54c21f30ce3c6397935f065b2bc") -- Depot 2 (3484241_7238494630064099886.manifest)
 --====================================================================================
 -- AppID:3484250;Lost Soul Aside™: Digital Deluxe Edition - Soundtrack
