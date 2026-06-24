@@ -3,9 +3,9 @@
 --====================================================================================
 addappid(3764200,1,"d29b7ad461b8b74dce38b7137fc00d4b5a885c5be1211767a4ecae0eaf8ddd96")
 addappid(3764201,1,"bdf443ffde6449192b9863c0fa5e3cda31fdaa5e4d33e5bcded62dc2085b7cb8")
---addappid(3764203,[No size]) 	
---addappid(3764204,[No size])
---addappid(3764202,"[NEED OWNER SHARE(JP ONLY)]")
+addappid(3764202,1,"3b6b7669a064598e8f48e38776d1862941f78d515a88b89333c2dbde0a07fcff")
+addappid(3764203,1,"b2e820287e6e3f32d1ccb3f2f8c95ec3783e8c0a75abab5d311a0a648626fd92")
+addappid(3764204,1,"5c0b40c6708cb9d8c0d0d780717a925508eb763c3a0c9bd74f6e76132785bc97")
 addappid(3990800,1,"f5bf116706491176c9eee46a96fe1faa70b3f771d75ccb34f0c8962097a907e5")
 --addappid(3764205,"[NEED OWNER SHARE(JP ONLY)]")
 addappid(3990820,1,"9ae4713cb4114effdd34d1cd54dbda8a560f27a05aef06fbaa0370748f69d15c")
@@ -14,6 +14,9 @@ addappid(3990820,1,"9ae4713cb4114effdd34d1cd54dbda8a560f27a05aef06fbaa0370748f69
 -- APPID:4460240;バイオハザード レクイエム オリジナル・サウンドトラック (Resident Evil Requiem Original Soundtrack)
 --====================================================================================
 addappid(4460241,1,"8a08c4f0a4f659b5068003bcdf72daede745db9a881d5d4021102273fdecfe59")
+--addappid(4460242,"[NEED OWNER SHARE]" 	HQ AudioJapanese）
+--addappid(4460243,"[NEED OWNER SHARE]" 	）
+--addappid(4460244,"[NEED OWNER SHARE]" 	HQ Audio）
 --====================================================================================
 -- OPTIONS
 -- eg:
